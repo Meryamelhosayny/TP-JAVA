@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 
 public class TypeTriangle {
     public static void main(String[] args) {
@@ -24,3 +24,4 @@ public class TypeTriangle {
         sc.close();
     }
 }
+
