@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 
 public class ConversionTemperature {
     public static void main(String[] args) {
@@ -10,3 +10,4 @@ public class ConversionTemperature {
         sc.close();
     }
 }
+
